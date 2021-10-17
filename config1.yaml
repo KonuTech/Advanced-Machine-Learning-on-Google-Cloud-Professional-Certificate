@@ -1,0 +1,5 @@
+# TODO 3a
+# Configure a master worker
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: n1-highcpu-16
